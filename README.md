@@ -5,7 +5,7 @@
     <img alt="License: Do What The F*ck You Want To Public License" src="https://img.shields.io/badge/License-Do What The F*ck You Want To Public License-yellow.svg" />
   </a>
   <a href="https://twitter.com/GLGH\_" target="_blank">
-    <img alt="Twitter: GLGH\_" src="https://img.shields.io/twitter/follow/GLGH\_.svg?style=social" />
+    <img alt="Twitter: GLGH\_" src="https://img.shields.io/twitter/follow/GLGH_.svg?style=social" />
   </a>
 </p>
 
