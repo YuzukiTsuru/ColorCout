@@ -21,11 +21,11 @@ Copyright (C) 2020 GloomyGhost <GloomyGhost@foxmail.com>
 
 #include <Windows.h>
 
-#define ccout(a) SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), a); std::cout
-#define cend SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 15)
-#define cendl std::endl;SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 15)
+#define ccout(COLOR) SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), COLOR); std::cout
+#define cend SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), DEFAULT)
+#define cendl std::endl;SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), DEFAULT)
 
-#define DEFAULT         15
+#define DEFAULT         0
 #define BLACK           0
 #define BLUE            1
 #define GREEN           2
@@ -45,7 +45,7 @@ Copyright (C) 2020 GloomyGhost <GloomyGhost@foxmail.com>
 
 #else
 
-#define ccout(a) std::cout << a << "m"
+#define ccout(COLOR) std::cout << COLOR << "m"
 #define ccend DEFAULT << "m"
 #define ccendl DEFAULT << "m" << std::endl
 
