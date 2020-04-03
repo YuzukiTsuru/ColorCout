@@ -13,7 +13,8 @@
 
 ### 🏠 [Homepage](https://github.com/GloomyGhost-MosquitoSeal/ColorCout)
 
-### ✨ [Demo](https://user-images.githubusercontent.com/12003087/78259083-c6a6ff80-752e-11ea-8d16-0a45fcc811c9.png)
+### ✨ Demo
+![Demo](https://user-images.githubusercontent.com/12003087/78259083-c6a6ff80-752e-11ea-8d16-0a45fcc811c9.png)
 
 ## Usage
 
@@ -46,6 +47,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2020 [GloomyGhost-MosquitoSeal](https://github.com/GloomyGhost-MosquitoSeal).<br />
 This project is [Do What The F*ck You Want To Public License](https://github.com/GloomyGhost-MosquitoSeal/ColorCout/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
