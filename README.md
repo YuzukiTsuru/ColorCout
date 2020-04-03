@@ -18,7 +18,12 @@
 ## Usage
 
 ```sh
-ccout(YELLOW) << &#34;Hello, World!&#34; << ccendl;
+int main() {
+    ccout(YELLOW) << "Hello, World!" << ccendl;
+    ccout(CYAN) << "Hello, World!" << ccendl;
+    ccout(BLACK) << "Hello, World!" << ccendl;
+    return 0;
+}
 ```
 
 ## Author
