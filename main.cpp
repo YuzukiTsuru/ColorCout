@@ -3,7 +3,7 @@
 
 int main() {
     ccout(YELLOW) << "Hello, World!" << ccendl;
-    ccout(CYAN) << "Hello, World!" << ccendl;
-    ccout(BLACK) << "Hello, World!" << ccendl;
+    ccout(CYAN) << "Hello, World!" << ccend;
+    ccout(WHITE) << "Hello, World!" << ccendl;
     return 0;
 }
