@@ -14,6 +14,8 @@ Copyright (C) 2020 GloomyGhost <GloomyGhost@foxmail.com>
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
  */
+#ifndef COLORCOUT_H
+#define COLORCOUT_H
 
 #if WIN32
 
@@ -44,8 +46,8 @@ Copyright (C) 2020 GloomyGhost <GloomyGhost@foxmail.com>
 #else
 
 #define ccout(a) std::cout << a << "m"
-#define cend DEFAULT << "m"
-#define cendl DEFAULT << "m" << std::endl
+#define ccend DEFAULT << "m"
+#define ccendl DEFAULT << "m" << std::endl
 
 
 #define DEFAULT         "\033["
@@ -65,4 +67,6 @@ Copyright (C) 2020 GloomyGhost <GloomyGhost@foxmail.com>
 #define CYAN            "\033[1;36"
 #define LIGHT_GREY      "\033[37"
 #define WHITE           "\033[1;37"
+#endif
+
 #endif

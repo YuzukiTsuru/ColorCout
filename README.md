@@ -5,9 +5,9 @@ Simple cross-platform(?) colored terminal text in C++
 
 ```cpp
 int main() {
-    ccout(YELLOW) << "Hello, World!" << cendl;
-    ccout(CYAN) << "Hello, World!" << cendl;
-    ccout(BLACK) << "Hello, World!" << cendl;
+    ccout(YELLOW) << "Hello, World!" << ccendl;
+    ccout(CYAN) << "Hello, World!" << ccendl;
+    ccout(BLACK) << "Hello, World!" << ccendl;
     return 0;
 }
 ```
