@@ -25,7 +25,7 @@ Copyright (C) 2020 GloomyGhost <GloomyGhost@foxmail.com>
 #define ccend "";SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), DEFAULT)
 #define ccendl std::endl;SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), DEFAULT)
 
-#define DEFAULT         0
+#define DEFAULT         15
 #define BLACK           0
 #define DARK_BLUE       1
 #define DARK_GREEN      2
