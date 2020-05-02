@@ -47,3 +47,6 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2020 [GloomyGhost-MosquitoSeal](https://github.com/GloomyGhost-MosquitoSeal).<br />
 This project is [Do What The F*ck You Want To Public License](https://github.com/GloomyGhost-MosquitoSeal/ColorCout/blob/master/LICENSE) licensed.
+
+## Reference
+[https://github.com/yurablok/colored-cout/](https://github.com/yurablok/colored-cout/) for the nice idea.
