@@ -19,12 +19,11 @@
 ## Usage
 
 ```sh
-int main() {
-    ccout(YELLOW) << "Hello, World!" << ccendl;
-    ccout(CYAN) << "Hello, World!" << ccendl;
-    ccout(BLACK) << "Hello, World!" << ccendl;
-    return 0;
-}
+std::cout << cc::red << " red "
+          << cc::yellow << " yellow "
+          << cc::green << " green "
+          << cc::reset << " reset"
+          << std::endl;
 ```
 
 ## Author
