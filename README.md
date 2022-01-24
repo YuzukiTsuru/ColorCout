@@ -32,11 +32,11 @@ std::cout << cc::red << " red "
 
 * Website: https://gloomyghost.com/
 * Twitter: [@GLGH\_](https://twitter.com/GLGH\_)
-* Github: [@GloomyGhost-MosquitoSeal](https://github.com/GloomyGhost-MosquitoSeal)
+* Github: [@YuzukiTsuru](https://github.com/YuzukiTsuru)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/GloomyGhost-MosquitoSeal/ColorCout/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/YuzukiTsuru/ColorCout/issues). 
 
 ## Show your support
 
@@ -44,8 +44,8 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020 [GloomyGhost-MosquitoSeal](https://github.com/GloomyGhost-MosquitoSeal).<br />
-This project is [Do What The F*ck You Want To Public License](https://github.com/GloomyGhost-MosquitoSeal/ColorCout/blob/master/LICENSE) licensed.
+Copyright © 2020 [YuzukiTsuru](https://github.com/YuzukiTsuru).<br />
+This project is [Do What The F*ck You Want To Public License](https://github.com/YuzukiTsuru/ColorCout/blob/master/LICENSE) licensed.
 
 ## Reference
 [https://github.com/yurablok/colored-cout/](https://github.com/yurablok/colored-cout/) for the nice idea.
