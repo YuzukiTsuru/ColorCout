@@ -21,6 +21,7 @@ Copyright (C) 2020 GloomyGhost <GloomyGhost@foxmail.com>
 #define COLORBOX_COLORCOUT_H
 
 #include <iostream>
+#include <cstdint>
 
 #ifdef WIN32
 #ifndef WIN32_LEAN_AND_MEAN
